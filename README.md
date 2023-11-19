@@ -1,5 +1,5 @@
 # WeatherCheck
-⚡ Weather app that fetches real time weather data of any location
+⚡ Weather Web App that fetches real time weather data of any location
 
 ## Api
 I have used [OpenWeather](https://openweathermap.org/api) api to fetch real time weather data.
